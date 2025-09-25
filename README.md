@@ -30,5 +30,4 @@ Welcome to my GitHub profile! Here you'll find a collection of my work, collabor
 
 *Thank you for visiting! You can explore my repositories, raise issues, or reach out for collaborations.*
 
-```
 
