@@ -23,9 +23,6 @@ Welcome to my GitHub profile! Here you'll find a collection of my work, collabor
 - Reproducible Science & Open Data
 - Geospatial Analysis
 
-## 📈 GitHub Stats
-
-![sjevelazco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjevelazco&show_icons=true&theme=default)
 
 ---
 
