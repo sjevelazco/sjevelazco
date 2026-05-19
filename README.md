@@ -12,9 +12,9 @@ Welcome to my GitHub profile! Here you'll find a collection of my work, collabor
 
 ## 🌱 What I’m Currently Working On
 
-- Developing new R packages for biodiversity analysis.
+- Developing new R and Python packages for biodiversity modeling.
 - Improving reproducibility and transparency in ecological modeling.
-- Contributing to global collaborative projects in ecology and conservation.
+- Contributing to global collaborative projects in ecological modeling and conservation.
 
 ## 💡 Skills & Interests
 
