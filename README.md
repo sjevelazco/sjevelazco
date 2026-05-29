@@ -8,6 +8,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my work, collabor
 - [adm](https://github.com/sjevelazco/adm): Abundance-based Species Distribution Modeling tools.
 - [bdc](https://github.com/brunobrr/bdc): Biodiversity Data cleaning toolkit.
 - [pyflexsdm](https://github.com/sjevelazco/pyflexsdm): Flexible Species distribution Modeling toos in Python.
+- [ENMTML](https://github.com/andrefaa/ENMTML): An R package for an integrated construction of Ecological Niche Models.
+- [MSDM](https://github.com/sjevelazco/MSDM): Methods to deal with the overprediction of species distribution models.
 - [BMIP1](https://github.com/GEOBON-EcoCode/BMIP1): Biodiversity Model Intercomparison Project 1.0 - BMIP 1.0.
 
 ## 🌱 What I’m Currently Working On
